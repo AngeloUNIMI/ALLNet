@@ -4,7 +4,9 @@ Python/PyTorch source code for the paper:
 
 	A. Genovese, 
     "ALLNet: Acute Lymphoblastic Leukemia Detection using lightweight convolutional networks", 
-    in Proc. of the 2022 IEEE Int. Conf. on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA 2022), Chemnitz, Germany, June 15-17, 2022, pp. 1-6
+    in Proc. of the 2022 IEEE Int. Conf. on Computational Intelligence and Virtual Environments 
+    for Measurement Systems and Applications (CIVEMSA 2022), 
+    Chemnitz, Germany, June 15-17, 2022, pp. 1-6
 	
 Project page:
 
