@@ -9,6 +9,10 @@ Python/PyTorch source code for the paper:
     Chemnitz, Germany, June 15-17, 2022, pp. 1-6
     ISBN: 978-1-6654-3445-4. [DOI: 10.1109/CIVEMSA53371.2022.9853691]
 	
+Paper:
+
+[https://ieeexplore.ieee.org/document/9493677](https://ieeexplore.ieee.org/document/9493677)
+	
 Project page:
 
 [https://iebil.di.unimi.it/cnnALL/index.htm](https://iebil.di.unimi.it/cnnALL/index.htm)
