@@ -7,6 +7,7 @@ Python/PyTorch source code for the paper:
     in Proc. of the 2022 IEEE Int. Conf. on Computational Intelligence and Virtual Environments 
     for Measurement Systems and Applications (CIVEMSA 2022), 
     Chemnitz, Germany, June 15-17, 2022, pp. 1-6
+    ISBN: 978-1-6654-3445-4. [DOI: 10.1109/CIVEMSA53371.2022.9853691]
 	
 Project page:
 
