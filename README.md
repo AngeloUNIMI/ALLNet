@@ -35,7 +35,7 @@ The approach is designed to exploit histopathological pre-training and adapt the
 
 <div align="center">
 
-![ALLNet outline](./images/outline.png "ALLNet outline")
+![ALLNet outline](outline.jpg "ALLNet outline")
 
 </div>
 
